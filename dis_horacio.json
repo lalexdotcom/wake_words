@@ -1,11 +1,11 @@
 {
   "type": "micro",
-  "wake_word": "di_oracio",
-  "author": "Tater Totterson",
-  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-AppleSilicon",
-  "model": "di_oracio.tflite",
+  "wake_word": "Dis Horacio",
+  "author": "LAlex",
+  "website": "https://github.com/lalexdotcom/wake_words",
+  "model": "dis_horacio.tflite",
   "trained_languages": [
-    "en"
+    "fr"
   ],
   "version": 2,
   "micro": {
