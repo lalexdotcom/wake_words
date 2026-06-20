@@ -1,8 +1,8 @@
 {
   "type": "micro",
-  "wake_word": "hey_aldric",
+  "wake_word": "Hey Aldric",
   "author": "Tater Totterson",
-  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-AppleSilicon",
+  "website": "https://github.com/lalexdotcom/wake_words",
   "model": "hey_aldric.tflite",
   "trained_languages": [
     "fr"
